@@ -1,1 +1,1 @@
-# Hey there, Fellow C Developers!
+# Hey there! fellow low level programmers!
